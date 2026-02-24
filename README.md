@@ -1,6 +1,7 @@
-# Olá, sou Vitorkr1! 👋
+# Olá, sou Vitor Guilherme! 👋
 
-![Foto de Perfil](profile.png)
+
+
 
 Bem-vindo(a) ao meu perfil GitHub! Sou um entusiasta da tecnologia com paixão por desenvolvimento web e automação. Minha jornada no mundo da programação me permitiu explorar diversas linguagens e ferramentas, sempre buscando soluções eficientes e inovadoras.
 
