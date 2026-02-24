@@ -2,25 +2,31 @@
 
 Bem-vindo(a) ao meu perfil GitHub! Sou um entusiasta da tecnologia com paixão por desenvolvimento web e automação. Minha jornada no mundo da programação me permitiu explorar diversas linguagens e ferramentas, sempre buscando soluções eficientes e inovadoras.
 
-## Minhas Habilidades Técnicas
+## 🛠️ Minhas Habilidades Técnicas
 
-Possuo experiência e conhecimento nas seguintes tecnologias:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
 
--   **Desenvolvimento Web:**
-    -   **HTML:** Estruturação semântica e acessível de páginas web.
-    -   **CSS:** Estilização moderna e responsiva, utilizando frameworks e pré-processadores.
-    -   **JavaScript:** Desenvolvimento front-end interativo e dinâmico, com foco em usabilidade e performance.
+### 🌐 Desenvolvimento Web
+- **HTML & CSS:** Estruturação semântica e estilização moderna e responsiva.
+- **JavaScript:** Desenvolvimento front-end interativo e dinâmico.
 
--   **Programação Backend & Automação:**
-    -   **Python:** Desenvolvimento de scripts, automação de tarefas, análise de dados e construção de APIs.
-    -   **n8n:** Criação de fluxos de trabalho de automação complexos e integração entre diferentes serviços e aplicações.
+### 🤖 Automação & Backend
+- **Python:** Scripts, automação de tarefas e APIs.
+- **n8n:** Fluxos de trabalho complexos e integrações inteligentes.
 
-## O que você encontrará aqui
+## 📊 Estatísticas do GitHub
 
-Neste perfil, você encontrará uma variedade de projetos que demonstram minhas habilidades e paixão por tecnologia. Desde aplicações web interativas até scripts de automação e integrações, cada repositório reflete meu compromisso em aprender e aplicar as melhores práticas de desenvolvimento.
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Newksitesfss&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Newksitesfss&layout=compact&theme=radical)
 
-## Conecte-se Comigo
+## 🚀 O que você encontrará aqui
+Neste perfil, você encontrará projetos que variam de landing pages elegantes a sistemas de automação robustos. Cada repositório é um passo na minha evolução como desenvolvedor.
 
-Estou sempre aberto(a) a novas conexões e oportunidades de colaboração. Sinta-se à vontade para explorar meus repositórios, entrar em contato e compartilhar ideias!
+## 📫 Conecte-se Comigo
+Estou sempre aberto a novas conexões e colaborações!
 
 ---
