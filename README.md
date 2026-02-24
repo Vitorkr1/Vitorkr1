@@ -21,10 +21,7 @@ Bem-vindo(a) ao meu perfil GitHub! Sou um entusiasta da tecnologia com paixão p
 - **Python:** Scripts, automação de tarefas e APIs.
 - **n8n:** Fluxos de trabalho complexos e integrações inteligentes.
 
-## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Vitorkr1&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorkr1&layout=compact&theme=radical)
 
 ## 🚀 O que você encontrará aqui
 Neste perfil, você encontrará projetos que variam de landing pages elegantes a sistemas de automação robustos. Cada repositório é um passo na minha evolução como desenvolvedor.
