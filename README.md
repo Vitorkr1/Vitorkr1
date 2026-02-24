@@ -29,4 +29,6 @@ Neste perfil, você encontrará projetos que variam de landing pages elegantes a
 ## 📫 Conecte-se Comigo
 Estou sempre aberto a novas conexões e colaborações!
 
+- **Portfólio:** [https://vitorkr1.github.io/portifolio/](https://vitorkr1.github.io/portifolio/)
+
 ---
