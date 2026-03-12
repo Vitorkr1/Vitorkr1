@@ -1,34 +1,50 @@
 # Olá, sou Vitor Guilherme! 👋
 
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitorkr1&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Vitor" />
+</p>
 
 Bem-vindo(a) ao meu perfil GitHub! Sou um entusiasta da tecnologia com paixão por desenvolvimento web e automação. Minha jornada no mundo da programação me permitiu explorar diversas linguagens e ferramentas, sempre buscando soluções eficientes e inovadoras.
 
-## 🛠️ Minhas Habilidades Técnicas
+---
 
+### 🛠️ Tecnologias e Ferramentas
+
+#### Linguagens e Front-end
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 🌐 Desenvolvimento Web
-- **HTML & CSS:** Estruturação semântica e estilização moderna e responsiva.
-- **JavaScript:** Desenvolvimento front-end interativo e dinâmico.
-
-### 🤖 Automação & Backend
-- **Python:** Scripts, automação de tarefas e APIs.
-- **n8n:** Fluxos de trabalho complexos e integrações inteligentes.
-
-
-
-## 🚀 O que você encontrará aqui
-Neste perfil, você encontrará projetos que variam de landing pages elegantes a sistemas de automação robustos. Cada repositório é um passo na minha evolução como desenvolvedor.
-
-## 📫 Conecte-se Comigo
-Estou sempre aberto a novas conexões e colaborações!
-
-- **Portfólio:** [https://vitorkr1.github.io/portifolio/](https://vitorkr1.github.io/portifolio/)
+#### Controle de Versão e Colaboração
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+### 🌐 O que eu faço
+- **Desenvolvimento Web:** Criação de interfaces modernas, responsivas e interativas utilizando HTML, CSS e JavaScript.
+- **Automação & Backend:** Desenvolvimento de scripts em Python para automação de tarefas e integração de sistemas.
+- **Versionamento:** Domínio de Git e GitHub para gestão de código e colaboração em projetos.
+
+---
+
+### 📊 Estatísticas de Linguagens
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorkr1&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+### 📫 Conecte-se Comigo
+Estou sempre aberto a novas conexões e colaborações!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-guilherme-24029139b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vitorkr)
+[![Portfólio](https://img.shields.io/badge/Portfólio-252525?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vitorkr1.github.io/portifolio/)
+
+---
+
+<p align="center">
+  <i>"Transformando ideias em código, um commit de cada vez."</i>
+</p>
