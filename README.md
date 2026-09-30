@@ -1,8 +1,5 @@
 # Olá, sou Vitor Guilherme! 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vitorkr1&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Vitor" />
-</p>
 
 Bem-vindo(a) ao meu perfil GitHub! Sou um entusiasta da tecnologia com paixão por desenvolvimento web e automação. Minha jornada no mundo da programação me permitiu explorar diversas linguagens e ferramentas, sempre buscando soluções eficientes e inovadoras.
 
