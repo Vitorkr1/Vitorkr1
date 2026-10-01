@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil GitHub! Sou um entusiasta da tecnologia com paixão p
 ---
 
 # portifolio 
-https://shre.ink/portifolio-vitor-dev
+https://portifolio-vitor-dev.online/
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -41,7 +41,7 @@ Estou sempre aberto a novas conexões e colaborações!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-guilherme-24029139b)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vitorkr)
-[![Portfólio](https://img.shields.io/badge/Portfólio-252525?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vitorkr1.github.io/portifolio/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-252525?style=for-the-badge&logo=google-chrome&logoColor=white)]((https://portifolio-vitor-dev.online/))
 
 ---
 
