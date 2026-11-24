@@ -24,6 +24,8 @@ Estou sempre buscando aprimorar minhas habilidades por meio de estudos, projetos
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Java](https://shields.io)
+
 
 ### 🗄️ Bancos de dados
 
