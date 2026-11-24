@@ -27,6 +27,7 @@ Estou sempre buscando aprimorar minhas habilidades por meio de estudos, projetos
 ![Java](https://shields.io)
 
 
+
 ### 🗄️ Bancos de dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
